@@ -56,7 +56,7 @@
     1. echo ${hostname};
     2. echo $(hostname);
 	
-### [Networks](#networks_descriptions)
+### [Networks](https://github.com/Andrey-Shatunov/INTERVIEW_WITH_DEVOPS_QUESTIONS/blob/main/Networks.md?target=_blank)
 28. Что такое модель OSI, TCP/IP?
 29. Для чего нужны network masks?
 30. Структура IP-пакета. Из чего состоит? Что такое фрагментация и почему она происходит?
@@ -112,10 +112,3 @@ Monitoring/Logging
 71. Напишите простую программу на ваш выбор. Программа должна получать сообщения из сервиса очередей и печатать его в stdout. Сервис очередей — по вашему усмотрению.
 72. Разберите структуру сервиса (на примере Docker-Compose).
 73. Практическая сессия работы с Git (Git command line: fetch, push, pull, rebase, checkout, submodules).
-
-#### [[⬆]](#toc) <a name='networks_descriptions'>Networks:</a>
-dfgdfgdf
-
-#### [[⬆]](#toc) <a name='clouds'>Clouds:</a>
-
-
