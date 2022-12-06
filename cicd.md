@@ -11,7 +11,7 @@ Continuous Delivery (непрерывная доставка) - практика
 
 Continuous Deployment (непрерывное разворачивание) - практика доставки каждого изменения в коде продукта на рабочее окружение.
 
-![image](https://user-images.githubusercontent.com/21099241/205846140-d4f6259f-2399-42ab-a98e-14071d499ce9.png)
+![](imgs/cicdcd.jpg)
 
 Разница между Continuous Delivery и Continuous Deployment очень маленькая. Представим два пайплайна для одного и того же приложения. В каждом есть шаги:
 
