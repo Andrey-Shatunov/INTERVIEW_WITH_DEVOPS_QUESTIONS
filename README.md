@@ -118,3 +118,7 @@
 71. Напишите простую программу на ваш выбор. Программа должна получать сообщения из сервиса очередей и печатать его в stdout. Сервис очередей — по вашему усмотрению.
 72. Разберите структуру сервиса (на примере Docker-Compose).
 73. Практическая сессия работы с Git (Git command line: fetch, push, pull, rebase, checkout, submodules).
+
+
+
+Честь вопросов взята с https://github.com/rmntrvn/adm_linux_ops_questions
