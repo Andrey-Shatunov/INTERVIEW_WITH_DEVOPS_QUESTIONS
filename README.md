@@ -89,7 +89,7 @@
 49. Как передать в виртуальную машину USB device?
 50. Docker-контейнер потребляет многие SWAP. Что делать?
 
-###  CI/CD
+###  [CI/CD](https://github.com/Andrey-Shatunov/INTERVIEW_WITH_DEVOPS_QUESTIONS/blob/main/cicd.md)
 51. Что такое Continuous Integration и Continuous Deployment? В чем разница между Continuous Deployment и Continuous Delivery?
 52. Опишите основные этапы CI/CD.
 53. Опишите пример процесса CI (и/или CD), который начинается с момента, когда разработчик запушил изменения/PR в Git?
