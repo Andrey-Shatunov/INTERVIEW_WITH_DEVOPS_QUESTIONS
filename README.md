@@ -58,7 +58,9 @@
 27. Что выведут команды:
     1. echo ${hostname};
     2. echo $(hostname);
-	
+
+27.1 Разница между fork(), vfork(), exec() и clone() - https://www.baeldung.com/linux/fork-vfork-exec-clone
+
 ### [Networks](https://github.com/Andrey-Shatunov/INTERVIEW_WITH_DEVOPS_QUESTIONS/blob/main/Networks.md?target=_blank)
 28. Что такое модель OSI, TCP/IP?
 29. Для чего нужны network masks?
